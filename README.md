@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @erlandss
-- 👀 I’m interested in 🤔
-- 🌱 I’m currently learning MATLAB 
-- 💞️ I’m looking to collaborate on 🤔
 
 <!---
 erlandss/erlandss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
